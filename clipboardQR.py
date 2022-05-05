@@ -5,7 +5,7 @@ from io import BytesIO
 import qrcode as qr
 import win32con
 
-version = 'v0.3.0'
+version = 'v0.3.2'
 keepAlive = True
 
 print(f'''clipboardQR ({version}) by Quantlyx
