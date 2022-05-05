@@ -1,2 +1,2 @@
 # clipboardQR
-Converts link from clipboard to QRcode.
+Converts text (eg. links) from clipboard to QRcode.
